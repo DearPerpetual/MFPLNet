@@ -1,0 +1,13 @@
+torch
+torchvision
+scikit-learn
+opencv-python
+tqdm
+p_tqdm
+imgaug
+yapf
+pathspec
+timm
+mmcv
+albumentations
+
