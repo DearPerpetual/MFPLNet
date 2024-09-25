@@ -49,7 +49,7 @@ Running on Ubuntu 16.04 system with pytorch.
   `python main.py configs/clrnet/clr_resnet18_tusimple.py --validate --load_from work_dirs/clr/r18_tusimple/20240326_114727_lr_1e-03_b_40/ckpt/4.pth --view --gpus 0`
 - Test results：
 
-![test](https://github.com/XCLXY0/Insulators/blob/master/test_result.png)
+![test](https://github.com/DearPerpetual/MFPLNet/blob/main/Val.png)
 
 ![000033](https://github.com/XCLXY0/Insulators/blob/master/result/000033.jpg)
 
