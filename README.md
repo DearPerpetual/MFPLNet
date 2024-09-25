@@ -9,7 +9,7 @@ Code for reproducing results in the paper __MFPLNet: Cross Layer Feature Aggrega
 
 ## Results
 <p align="center">
-<img src="https://github.com/XCLXY0/Insulators/blob/master/result/000020.jpg", width="720">
+<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_2.jpg", width="720">
 </p>
 <p align="center">
 <img src="https://github.com/XCLXY0/Insulators/blob/master/result/000252.jpg", width="720">
