@@ -14,7 +14,7 @@ Code for reproducing results in the paper __MFPLNet: Cross Layer Feature Aggrega
 <img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_795.jpg", width="360">
 </p>
 <p align="center">
-<img src="https://github.com/XCLXY0/Insulators/blob/master/result/001246.jpg", width="720">
+<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_857.jpg", width="360">
 </p>
 
 
