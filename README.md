@@ -51,7 +51,7 @@ Running on Ubuntu 16.04 system with pytorch.
 
 ![test](https://github.com/DearPerpetual/MFPLNet/blob/main/Val.png)
 
-![000033](https://github.com/XCLXY0/Insulators/blob/master/result/000033.jpg)
+![000033](https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_445.jpg)
 
 __Note: The testing images are all shot by UAV with the resolution of `360x540`.__
 
